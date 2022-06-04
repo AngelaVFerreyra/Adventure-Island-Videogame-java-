@@ -1,0 +1,8 @@
+0
+3
+0
+15110.0
+false
+false
+false
+false
